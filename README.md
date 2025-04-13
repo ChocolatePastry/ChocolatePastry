@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ChocolatePastry</h1>
-<h3 align="center">A dedicated Full-stack developer.</h3>
+<h3 align="center">Started with MERN stack development, now diving into the world of AI/ML.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/iviIq2uXz-kAAAAi/work-office.gif">
 
